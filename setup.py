@@ -10,5 +10,5 @@ setup(
     author='Pawel',
     author_email='',
     description='',
-    console=['hello.py']
+    console=['kerbal.py']
 )
