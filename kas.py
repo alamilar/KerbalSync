@@ -1,9 +1,10 @@
-from mod import Mod
 import urllib2
 import tempfile
 import shutil
 from zipfile import ZipFile
 import distutils.core
+
+from mod import Mod
 
 
 class kas(Mod):

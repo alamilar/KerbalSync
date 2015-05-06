@@ -1,13 +1,13 @@
 import tempfile
 import shutil
-from mod import Mod
 from zipfile import ZipFile
 import distutils.core
-from github3 import GitHub
 import urllib2
 import os
 
+from github3 import GitHub
 
+from mod import Mod
 
 
 class mechjeb(Mod):

@@ -1,7 +1,6 @@
-from github3 import GitHub
-from mks import mks
 import ConfigParser
 import os
+from mks import mks
 from kas import kas
 from mechjeb import mechjeb
 

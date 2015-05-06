@@ -1,7 +1,3 @@
-from github3 import GitHub
-
-
-
 class Mod(object):
 
 
